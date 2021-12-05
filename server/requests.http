@@ -1,0 +1,2 @@
+### Stats for the client
+GET http://localhost:3001/stats
